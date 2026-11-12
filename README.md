@@ -6,9 +6,9 @@
 
 **先手** 是一个面向机器人集群的事件级通信演示：A 机器人监测 B 的盲区，检测到显著变化时发送 16 字节事件包；B 在自身视觉看到之前停下或转向。
 
-![concept demo](media/demo_poster.png)
+![concept demo](media/demo.gif)
 
-> 上图由 `sim_swarm.py` 生成，是二维概念仿真；实机视频将在黑客松现场拍摄并替换。动图见 `media/demo.gif`。
+> 上图由 `sim_swarm.py` 生成，是二维概念仿真；实机视频将在黑客松现场拍摄并替换。静态图见 `media/demo_poster.png`。
 
 ## 为什么做这个
 

@@ -1,5 +1,7 @@
 # 先手 · First Move
 
+[![tests](https://github.com/ZangbaoGT/xianshou/actions/workflows/ci.yml/badge.svg)](https://github.com/ZangbaoGT/xianshou/actions/workflows/ci.yml)
+
 > 两台机器人，一台替另一台看盲区；只在看见变化时发 16 字节。
 
 **先手** 是一个面向机器人集群的事件级通信演示：A 机器人监测 B 的盲区，检测到显著变化时发送 16 字节事件包；B 在自身视觉看到之前停下或转向。
@@ -120,6 +122,13 @@ docs/                一页纸、实验设计、视频脚本
 media/               概念图/GIF
 tests/               协议单测
 ```
+
+## 文档
+
+- [一页纸](docs/ONE_PAGER.md)
+- [实验设计：20 次 A/B 对照](docs/EXPERIMENT.md)
+- [90 秒视频脚本](docs/VIDEO_SCRIPT.md)
+- [提交材料（表单用）](SUBMISSION.md)
 
 ## 团队
 

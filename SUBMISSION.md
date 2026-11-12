@@ -7,9 +7,12 @@
 
 ```
 GitHub（代码 + 文档）：https://github.com/ZangbaoGT/xianshou
-Demo 视频（90 秒）：https://www.bilibili.com/video/BV...
 项目介绍（一页纸）：https://github.com/ZangbaoGT/xianshou/blob/main/docs/ONE_PAGER.md
+Demo（概念仿真 GIF）：https://github.com/ZangbaoGT/xianshou/blob/main/media/demo.gif
 ```
+
+> 视频上传 B 站后，把最后一行换成 `Demo 视频（90 秒）：https://www.bilibili.com/video/BV...`。
+> 视频没上传前不要填 `BV...`，那是死链；先用 GIF 这一行。
 
 ## 二、项目名称
 
